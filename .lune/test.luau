@@ -1,11 +1,11 @@
-local powerprompt = require("..")
+local powerio = require("..")
 
 if false then
-	local result = powerprompt.promptFile({
+	local result = powerio.promptFile({
 		{ name = "ROBLOX SHIT", extensions = { "rbxm" } }
 	}, true)
 end
 
-local result = powerprompt.promptMessageBox("lol", "xd", "YesNo", "Information")
+local result = powerio.promptMessageBox("lol", "xd", "YesNo", "Information")
 
 print(result)

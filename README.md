@@ -18,4 +18,4 @@ local answer = powerio.promptMessageBox("Title", "Message", "YesNo", "Informatio
 ```
 
 ## TODO
-- Support no-powershell environment for prompts
+- Support environments without powershell

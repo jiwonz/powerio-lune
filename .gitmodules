@@ -1,0 +1,6 @@
+[submodule "submodules/getScriptPath"]
+	path = submodules/getScriptPath
+	url = https://github.com/jiwonz/getScriptPath.lune.git
+[submodule "submodules/pathfs"]
+	path = submodules/pathfs
+	url = https://github.com/jiwonz/lune-path-fs.git
